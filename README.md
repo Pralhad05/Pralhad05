@@ -52,16 +52,16 @@ I am a passionate backend developer focused on building **scalable, high-perform
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**
-Java | Spring Boot | Python | FastAPI | Flask | JavaScript | React
+ : Java | Spring Boot | Python | FastAPI | Flask | JavaScript | React
 
 **Databases**
-MySQL | PostgreSQL | MongoDB | SQLite | MySQL Workbench
+ : MySQL | PostgreSQL | MongoDB | SQLite | MySQL Workbench
 
 **ML / Data**
-Pandas | NumPy | Scikit-learn
+ : Pandas | NumPy | Scikit-learn
 
 **Tools**
-Docker | GitHub | Linux | Postman | Jira | Jupyter
+ : Docker | GitHub | Linux | Postman | Jira | Jupyter
 
 
 ---
