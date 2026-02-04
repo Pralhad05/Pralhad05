@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋 I'm Pralhad Gaikwad
 
 🚀 **Python & Java Backend Developer | MCA Student**  
@@ -54,3 +52,52 @@ I am a passionate backend developer focused on building **scalable, high-perform
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**
+Java | Spring Boot | Python | FastAPI | Flask | JavaScript | React
+
+**Databases**
+MySQL | PostgreSQL | MongoDB | SQLite | MySQL Workbench
+
+**ML / Data**
+Pandas | NumPy | Scikit-learn
+
+**Tools**
+Docker | GitHub | Linux | Postman | Jira | Jupyter
+
+
+---
+
+## 🎯 Research & Interests
+
+- Backend Systems
+- Scalable Architectures
+- Machine Learning Systems
+- Performance Optimization
+- Distributed Systems
+- Data Structures & Algorithms
+
+---
+
+## 📚 Education
+
+🎓 **MCA** — Bharati Vidyapeeth, Navi Mumbai *(2024–2026)*  
+🎓 **BCA** — Deogiri College, Chhatrapati Sambhajinagar *(2021–2024)*  
+
+---
+
+## 📜 Certifications
+
+- Programming in Java — NPTEL  
+- AWS re/Start Cloud Computing Program — AWS  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: gpralhad05@email.com  
+- 💼 LinkedIn: https://linkedin.com  
+- 🐙 GitHub: https://github.com  
+
+---
+
+> *"I build systems that scale, learn continuously, and write code that matters."*
+
